@@ -8,7 +8,7 @@ namespace StarterKit
         public WhateversPage ()
 		{
 			Title = "Whatevers";
-			Icon = "TabIcons/Payments.png";
+			Icon = "TabIcons/Binoculars.png";
 			Content = new StackLayout {
 				BackgroundColor = new Color (46, 81, 163),
 				VerticalOptions = LayoutOptions.Center,

@@ -8,7 +8,7 @@ namespace StarterKit
 		public ProfilePage()
 		{
 			Title = "Profile";
-			Icon = "TabIcons/Profile.png";
+			Icon = "TabIcons/Contacts.png";
 			Content = new StackLayout {
 				BackgroundColor = new Color(46, 81, 163),
 				VerticalOptions = LayoutOptions.Center,
